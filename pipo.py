@@ -6,7 +6,7 @@ import datetime as dt
 import numpy as np
 
 
-NAME = "Melvin Kallmayer"
+NAME = "YOUR NAME GOES HERE"
 
 
 HELP = """{0} -- punch in, punch out
