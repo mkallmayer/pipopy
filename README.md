@@ -1,6 +1,6 @@
 ```
 USAGE:
-  {0} [-md] INFILE
+  pipopy [-md] INFILE
 
   where INFILE is a ;-seperated list of format
     
